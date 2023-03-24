@@ -9,6 +9,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@capacitor/android": "^4.7.1",
+    "@capacitor/core": "^4.7.1",
+    "@capacitor/ios": "^4.7.1",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
     "vue-class-component": "^8.0.0-0",
@@ -16,6 +19,7 @@
     "vuex": "^4.0.0"
   },
   "devDependencies": {
+    "@capacitor/cli": "^4.7.1",
     "@types/jest": "^27.0.1",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
